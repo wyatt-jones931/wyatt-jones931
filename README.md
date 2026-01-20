@@ -17,6 +17,7 @@ Overtime I have grown my Data Science toolkit to include:
   - Data Visualization
   - Machine Learning
   - ETL Processing
+  - Sophisticated Statistical Testing/Analsyis
  
 - <b>Communication</b>
   - Poster Creation/Sessions!
