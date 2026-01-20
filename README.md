@@ -11,6 +11,7 @@ Overtime I have grown my Data Science toolkit to include:
   - SQL
   - MATLAB
   - Java
+  - Excel
 
 - <b>Processes</b>
   - Data Cleaning
