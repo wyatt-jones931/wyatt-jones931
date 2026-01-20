@@ -1,6 +1,6 @@
 <h1>Hi, I'm Wyatt! </h1>
 
-I am a Senior undergraduate student at Belmont University currently pursuing my BS in Data Science 📊 (with minors in mathematics ✖️ and Italian 🤌)!
+I am a Senior undergraduate student at Belmont University currently pursuing my BS in Data Science 📊 (with minors in mathematics 🟰 and Italian 🤌)!
 
 <h2>🧰 Skills:</h2>
 Overtime I have grown my Data Science toolkit to include:
