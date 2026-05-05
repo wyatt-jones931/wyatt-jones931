@@ -31,6 +31,7 @@ Overtime I have grown my Data Science toolkit to include:
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Sports Projects</b>
+  - [Tennis Lightweight Player Tracking & Stats Tool](https://github.com/wyatt-jones931/tennis-vision)
   - [Impact of Handedness on Professional Tennis](https://github.com/wyatt-jones931/Tennis-Handedness-Research)
 - <b>Stats Research</b>
   - [Inter-Rater Reliability Test Research](https://github.com/wyatt-jones931/Inter-Rater-Reliability-Research)
